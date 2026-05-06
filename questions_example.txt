@@ -1,0 +1,76 @@
+Interview Record — collaborative_resume project
+Interviewer: Shinji Ishizawa (sishizaw)
+Interviewee: Federico Ceragioli (fceragio)
+Format: Online (Discord)
+
+---
+
+Q1: Can you introduce yourself and describe your background before 42 Tokyo?
+A: I joined 42 Tokyo to transition into software development professionally. I have actually been a chef before this.
+	I'm aware of the fact that it is a very different field, but I think that experience really developed my problem solving and interpersonal skills.
+
+Q2: What did you study at 42 Tokyo and what projects are you most proud of?
+A: Completed the full core curriculum — C, C++, and a final team project (ft_transcendence) in TypeScript/NestJS.
+	Most proud of ft_transcendence because it was a full stack project, and the end product felt closer to a professional.
+
+Q3: What is your level with JavaScript and TypeScript?
+A: Used both in ft_transcendence. I'm more comfortable with TypeScript for backend (NestJS), but I had the chance  gain some experience also with React on the frontend.
+
+Q4: Have you worked with Docker?
+A: Yes — both in ft_transcendence (multi-container setup) and in the Inception project (built from scratch with Nginx, WordPress, MariaDB).
+
+Q5: What was your specific role in ft_transcendence?
+A: I handled the game logic on the back-end side: real-time state management over WebSocket, reconnection and
+	disconnect handling, AI opponent behavior, and ball physics.
+	On the front-end side of the game, I just had to take care of some bug fixing tweeking the existing code.
+
+Q6: How do you handle working in a team under pressure?
+A: At 42 Tokyo, all evaluations are peer-based. I'm used to giving and receiving direct feedback and iterating quickly.
+
+Q7: What kind of role are you looking for?
+A: I would like to say Backend or full-stack development, but I would have to learn Python and PHP first.
+	Meanwhile I could start on the frontend since the stack is JavaScript-based.
+
+Q8: Anything you want highlighted on your resume?
+A: The game logic and real-time systems work in ft_transcendence, and the breadth of the
+	42 curriculum from low-level C to full-stack TypeScript.
+
+---
+
+Interview Record — collaborative_resume project
+Interviewer: Federico Ceragioli (fceragio)
+Interviewee: Shinji Ishizawa (sishizaw)
+Format: Online (Discord)
+
+---
+
+Q1: Can you walk me through your career background?
+A: Started in import/logistics, moved to B2B sales, then spent time as a Buddhist monk, and most recently worked as a Scrum Master while studying at 42 Tokyo.
+
+Q2: What is your current role and what do you do day-to-day?
+A: Scrum Master at Noah Techno. I facilitate sprint ceremonies, bridge communication between engineers and stakeholders, and support CI/CD and process improvement initiatives.
+
+Q3: What technical skills have you built at 42 Tokyo?
+A: Primarily C and C++. Completed projects including minishell, cub3D, webserv, and ft_transcendence (focused on the security layer with JWT, 2FA, CSRF).
+
+Q4: You have certifications — can you describe them?
+A: SAFe Agilist and CSM (Scrum), TOEIC 830, and a Real Estate Transaction Specialist license (宅建士).
+
+Q5: What languages do you work in professionally?
+A: Japanese (native) and English at professional level (TOEIC 830). I communicate daily in English at work.
+
+Q6: What kind of role are you targeting?
+A: Backend development or security engineering. I want to work on server-side systems, APIs, and
+   security layers. I focused on the security side of ft_transcendence and that is the area I want
+   to continue developing in.
+
+Q7: Are you already familiar with PHP and Python?
+A: Not yet — my background at 42 Tokyo focused on C, C++, and TypeScript. That said, I've
+   picked up new languages quickly through project work before, and I'm confident I can get
+   up to speed on the job. The security patterns I've applied in TypeScript — auth flows, input
+   validation, session management — translate directly regardless of language.
+
+Q8: Anything specific to highlight?
+A: The security implementation in ft_transcendence — JWT, 2FA, CSRF, SQL injection prevention —
+   is concrete, real-world work, not tutorial-level. Combined with 42 Tokyo's self-directed model
+   and TOEIC 830, I can work autonomously and communicate clearly in English for remote workflows.
