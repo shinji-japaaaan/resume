@@ -1,6 +1,6 @@
 # Shinji Ishizawa
 
-📧 shinji.japaaan@gmail.com | 📍 Ibaraki, Japan | 🔗 https://github.com/shinji-japaaaan
+📧 shinji.japaaan@gmail.com | 📍 Ibaraki, Japan | 🔗 https://github.com/shinji-japaaaan | 💼 https://www.linkedin.com/in/i-s-717483367/
 
 ---
 
